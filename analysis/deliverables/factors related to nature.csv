@@ -1,0 +1,1019 @@
+﻿number_of_accidents,totalVehicles,totalCasualties,light_conditions,weather_conditions,road_surface_conditions,special_conditions_at_site,carriageway_hazards
+304786,574278,394709,Daylight,Fine no high winds,Dry,None,None
+63913,116862,83144,Darkness - lights lit,Fine no high winds,Dry,None,None
+36260,67985,48543,Daylight,Fine no high winds,Wet or damp,None,None
+35239,64900,46728,Daylight,Raining no high winds,Wet or damp,None,None
+20397,36218,26501,Darkness - lights lit,Raining no high winds,Wet or damp,None,None
+19601,35739,26052,Darkness - lights lit,Fine no high winds,Wet or damp,None,None
+11969,20333,18158,Darkness - no lighting,Fine no high winds,Dry,None,None
+6291,10526,9722,Darkness - no lighting,Fine no high winds,Wet or damp,None,None
+6110,11087,7563,Darkness - lighting unknown,Fine no high winds,Dry,None,None
+4829,7847,7221,Darkness - no lighting,Raining no high winds,Wet or damp,None,None
+3343,6167,4003,Daylight,Other,Dry,None,None
+3139,6390,4320,Daylight,Fine no high winds,Dry,Roadworks,None
+2913,5377,3777,Daylight,Other,Wet or damp,None,None
+2791,4954,3820,Daylight,Raining + high winds,Wet or damp,None,None
+2790,5190,3662,Daylight,Fine + high winds,Dry,None,None
+2661,4219,3363,Daylight,Fine no high winds,Frost or ice,None,None
+2177,3724,2814,Darkness - lights lit,Raining + high winds,Wet or damp,None,None
+2077,3621,2694,Daylight,Fine no high winds,Dry,None,Other object on road
+2048,3734,2707,Darkness - lights lit,Other,Wet or damp,None,None
+1994,3616,2642,Darkness - lights unlit,Fine no high winds,Dry,None,None
+1325,2386,1664,Darkness - lighting unknown,Raining no high winds,Wet or damp,None,None
+1136,2105,1528,Daylight,Fine + high winds,Wet or damp,None,None
+1032,1917,1300,Darkness - lighting unknown,Fine no high winds,Wet or damp,None,None
+1021,1756,1309,Darkness - lights lit,Fine no high winds,Frost or ice,None,None
+955,1731,1187,Darkness - lights lit,Other,Dry,None,None
+841,1267,1187,Darkness - no lighting,Raining + high winds,Wet or damp,None,None
+773,1278,958,Daylight,Other,Frost or ice,None,None
+765,1392,981,Daylight,Raining no high winds,Dry,None,None
+751,1281,946,Darkness - lights unlit,Raining no high winds,Wet or damp,None,None
+749,1013,1026,Darkness - no lighting,Fine no high winds,Frost or ice,None,None
+698,1237,916,Darkness - lights lit,Fine + high winds,Dry,None,None
+696,1074,911,Daylight,Fine no high winds,Dry,None,Any animal in carriageway (except ridden horse)
+688,1232,903,Daylight,Snowing no high winds,Snow,None,None
+674,1278,905,Daylight,Fog or mist,Wet or damp,None,None
+668,1329,915,Darkness - lights lit,Fine no high winds,Dry,Roadworks,None
+656,1233,901,Daylight,Fine no high winds,Dry,Auto traffic signal - out,None
+631,1132,848,Darkness - lights unlit,Fine no high winds,Wet or damp,None,None
+597,862,723,Daylight,Fine no high winds,Dry,None,Pedestrian in carriageway not injured
+582,1056,742,Darkness - lights lit,Fine + high winds,Wet or damp,None,None
+570,1085,706,Daylight,Fine no high winds,Dry,None,Vehicle load on road
+552,834,653,Daylight,Fine no high winds,Dry,Road surface defective,None
+525,838,778,Darkness - no lighting,Fog or mist,Wet or damp,None,None
+503,888,647,Darkness - lights lit,Fog or mist,Wet or damp,None,None
+500,869,750,Darkness - no lighting,Other,Wet or damp,None,None
+475,774,594,Darkness - lights lit,Fine no high winds,Dry,None,Other object on road
+422,664,555,Daylight,Fine no high winds,Wet or damp,Mud,None
+420,506,560,Darkness - no lighting,Fine no high winds,Dry,None,Any animal in carriageway (except ridden horse)
+412,904,582,Daylight,Fine no high winds,Wet or damp,Roadworks,None
+392,732,516,Daylight,Snowing no high winds,Wet or damp,None,None
+372,672,490,Darkness - lights lit,Other,Frost or ice,None,None
+369,716,562,Daylight,Fine no high winds,Dry,Road sign or marking defective or obscured,None
+354,739,473,Daylight,Raining no high winds,Wet or damp,Roadworks,None
+322,565,409,Darkness - lights lit,Snowing no high winds,Snow,None,None
+311,541,406,Daylight,Fine no high winds,Wet or damp,None,Other object on road
+310,427,426,Darkness - no lighting,Other,Frost or ice,None,None
+290,781,471,Daylight,Fine no high winds,Dry,None,Previous accident
+284,503,381,Daylight,Raining no high winds,Wet or damp,None,Other object on road
+278,484,350,Darkness - lights lit,Snowing no high winds,Wet or damp,None,None
+271,432,405,Daylight,Raining no high winds,Wet or damp,Oil or diesel,None
+262,474,335,Darkness - lights lit,Raining no high winds,Dry,None,None
+246,351,314,Daylight,Fine no high winds,Dry,Oil or diesel,None
+246,398,359,Daylight,Fine no high winds,Wet or damp,Oil or diesel,None
+238,365,309,Daylight,Fine no high winds,Dry,Mud,None
+233,391,296,Daylight,Fine no high winds,Dry,Roadworks,Other object on road
+231,453,329,Daylight,Snowing + high winds,Snow,None,None
+227,480,339,Darkness - no lighting,Fine no high winds,Dry,Roadworks,None
+223,433,318,Darkness - lights lit,Raining no high winds,Wet or damp,Roadworks,None
+220,401,296,Daylight,Snowing no high winds,Frost or ice,None,None
+218,367,335,Darkness - no lighting,Fine + high winds,Wet or damp,None,None
+216,412,314,Darkness - lights lit,Fine no high winds,Wet or damp,Roadworks,None
+214,423,294,Daylight,Fog or mist,Dry,None,None
+191,291,242,Darkness - lights lit,Raining no high winds,Wet or damp,None,Other object on road
+189,293,261,Darkness - no lighting,Snowing no high winds,Snow,None,None
+188,329,282,Darkness - no lighting,Fine no high winds,Dry,None,Other object on road
+188,341,218,Darkness - lighting unknown,Other,Dry,None,None
+186,292,266,Daylight,Raining no high winds,Flood over 3cm. deep,None,None
+182,286,291,Darkness - no lighting,Fine + high winds,Dry,None,None
+177,225,240,Darkness - no lighting,Fine no high winds,Wet or damp,Mud,None
+174,255,249,Daylight,Raining no high winds,Wet or damp,Mud,None
+167,286,212,Darkness - lights lit,Fine no high winds,Wet or damp,None,Other object on road
+159,287,206,Daylight,Fine no high winds,Snow,None,None
+147,216,191,Darkness - lights lit,Fine no high winds,Dry,None,Any animal in carriageway (except ridden horse)
+146,257,181,Darkness - lighting unknown,Other,Wet or damp,None,None
+146,269,188,Darkness - lights lit,Fine no high winds,Dry,Auto traffic signal - out,None
+142,243,175,Darkness - lighting unknown,Raining + high winds,Wet or damp,None,None
+137,156,183,Darkness - no lighting,Fine no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+133,252,173,Darkness - lights lit,Fine no high winds,Dry,None,Vehicle load on road
+132,173,167,Darkness - lights lit,Fine no high winds,Dry,None,Pedestrian in carriageway not injured
+129,179,181,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,None,None
+120,206,157,Daylight,Fog or mist,Frost or ice,None,None
+115,227,150,Daylight,Fine no high winds,Dry,Auto signal part defective,None
+113,217,143,Darkness - lights lit,Fog or mist,Dry,None,None
+111,184,144,Darkness - no lighting,Other,Dry,None,None
+110,141,131,Darkness - no lighting,Raining no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+104,167,157,Darkness - no lighting,Fog or mist,Dry,None,None
+102,160,137,Darkness - no lighting,Raining no high winds,Wet or damp,None,Other object on road
+101,156,125,Daylight,Fine no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+100,127,135,Darkness - no lighting,Raining no high winds,Wet or damp,Mud,None
+100,198,128,Daylight,Raining no high winds,Wet or damp,Auto traffic signal - out,None
+98,145,118,Daylight,Fine no high winds,Wet or damp,Road surface defective,None
+91,158,134,Daylight,Raining no high winds,Frost or ice,None,None
+90,163,110,Darkness - lights lit,Snowing no high winds,Frost or ice,None,None
+90,147,114,Darkness - lights unlit,Raining + high winds,Wet or damp,None,None
+88,130,124,Daylight,Raining no high winds,Wet or damp,Road surface defective,None
+87,151,115,Darkness - lights lit,Snowing + high winds,Snow,None,None
+84,107,105,Darkness - no lighting,Fog or mist,Frost or ice,None,None
+83,215,170,Darkness - no lighting,Fine no high winds,Dry,None,Previous accident
+79,172,128,Darkness - no lighting,Raining no high winds,Wet or damp,Roadworks,None
+79,135,100,Darkness - lighting unknown,Fine no high winds,Frost or ice,None,None
+79,153,117,Daylight,Fine no high winds,Wet or damp,Auto traffic signal - out,None
+78,137,123,Darkness - no lighting,Fine no high winds,Wet or damp,None,Other object on road
+77,123,103,Darkness - no lighting,Snowing no high winds,Frost or ice,None,None
+77,136,109,Darkness - lights unlit,Other,Wet or damp,None,None
+77,183,120,Darkness - lights lit,Fine no high winds,Dry,None,Previous accident
+75,144,105,Daylight,Raining no high winds,Wet or damp,None,Vehicle load on road
+74,123,92,Darkness - lights lit,Fog or mist,Frost or ice,None,None
+73,134,103,Daylight,Snowing + high winds,Wet or damp,None,None
+73,152,110,Darkness - no lighting,Fine no high winds,Wet or damp,Roadworks,None
+72,104,97,Daylight,Raining no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+72,117,109,Darkness - no lighting,Snowing + high winds,Snow,None,None
+68,130,103,Darkness - lights lit,Fine no high winds,Dry,Road sign or marking defective or obscured,None
+68,105,92,Daylight,Raining + high winds,Flood over 3cm. deep,None,None
+67,122,79,Darkness - lighting unknown,Fine + high winds,Dry,None,None
+66,114,77,Darkness - lights lit,Raining no high winds,Frost or ice,None,None
+66,128,82,Daylight,Fine no high winds,Wet or damp,None,Vehicle load on road
+65,117,78,Darkness - lights lit,Fine no high winds,Dry,Roadworks,Other object on road
+65,81,91,Darkness - no lighting,Raining + high winds,Flood over 3cm. deep,None,None
+61,128,90,Daylight,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,None
+61,121,78,Darkness - lighting unknown,Fine no high winds,Dry,Roadworks,None
+61,106,84,Darkness - lights lit,Raining no high winds,Wet or damp,Auto traffic signal - out,None
+61,102,88,Daylight,Snowing + high winds,Frost or ice,None,None
+60,76,68,Daylight,Fine no high winds,Dry,Road surface defective,Other object on road
+58,80,74,Darkness - lights lit,Raining no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+58,115,99,Darkness - lights lit,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,None
+58,85,75,Daylight,Raining + high winds,Wet or damp,None,Other object on road
+58,144,88,Daylight,Raining no high winds,Wet or damp,None,Previous accident
+58,88,79,Daylight,Fine no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+56,94,80,Daylight,Fine no high winds,Flood over 3cm. deep,None,None
+55,81,91,Darkness - no lighting,Snowing no high winds,Wet or damp,None,None
+55,94,67,Darkness - lighting unknown,Fog or mist,Wet or damp,None,None
+54,107,71,Darkness - lights lit,Fine no high winds,Wet or damp,Auto traffic signal - out,None
+54,73,76,Darkness - no lighting,Fine no high winds,Dry,Mud,None
+54,96,72,Darkness - lights lit,Raining no high winds,Wet or damp,None,Vehicle load on road
+53,82,68,Daylight,Raining no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+52,79,75,Darkness - no lighting,Raining no high winds,Frost or ice,None,None
+50,78,61,Daylight,Other,Snow,None,None
+49,65,62,Daylight,Fine + high winds,Dry,None,Other object on road
+49,133,90,Daylight,Fine no high winds,Wet or damp,None,Previous accident
+48,68,64,Darkness - no lighting,Raining + high winds,Wet or damp,None,Other object on road
+48,65,54,Darkness - lights lit,Fine no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+43,64,56,Darkness - lights lit,Raining no high winds,Wet or damp,Oil or diesel,None
+43,67,54,Darkness - lights lit,Fine no high winds,Dry,Road surface defective,None
+42,68,54,Daylight,Other,Wet or damp,None,Other object on road
+42,73,54,Daylight,Raining no high winds,Snow,None,None
+41,64,50,Darkness - lights unlit,Fine no high winds,Frost or ice,None,None
+41,79,55,Darkness - lights lit,Fine no high winds,Wet or damp,None,Vehicle load on road
+41,79,61,Daylight,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,None
+41,70,47,Daylight,Snowing no high winds,Dry,None,None
+41,53,55,Darkness - lights lit,Raining no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+41,75,51,Darkness - lights unlit,Fog or mist,Wet or damp,None,None
+40,117,61,Darkness - no lighting,Fine no high winds,Wet or damp,None,Previous accident
+40,67,50,Daylight,Fine + high winds,Frost or ice,None,None
+40,71,63,Daylight,Fine + high winds,Dry,Roadworks,None
+40,59,50,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,None,None
+39,72,50,Darkness - lights lit,Fine no high winds,Dry,Auto signal part defective,None
+38,58,45,Darkness - lighting unknown,Other,Frost or ice,None,None
+38,51,51,Darkness - lights lit,Fine no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+37,75,53,Daylight,Raining + high winds,Dry,None,None
+36,63,39,Daylight,Other,Dry,Roadworks,None
+36,72,51,Darkness - lights unlit,Fine no high winds,Dry,Roadworks,None
+35,110,65,Darkness - no lighting,Raining no high winds,Wet or damp,None,Previous accident
+35,42,49,Darkness - no lighting,Fine no high winds,Dry,Road surface defective,None
+34,65,41,Darkness - lighting unknown,Raining no high winds,Dry,None,None
+33,44,35,Darkness - lights lit,Fine no high winds,Wet or damp,Oil or diesel,None
+32,50,36,Daylight,Other,Dry,None,Other object on road
+32,49,40,Darkness - lights lit,Other,Wet or damp,None,Other object on road
+32,53,40,Darkness - lighting unknown,Fine + high winds,Wet or damp,None,None
+32,55,39,Darkness - lights unlit,Other,Dry,None,None
+32,55,44,Darkness - lights lit,Snowing + high winds,Wet or damp,None,None
+31,82,45,Darkness - lights lit,Raining no high winds,Wet or damp,None,Previous accident
+30,49,38,Darkness - lighting unknown,Fine no high winds,Dry,None,Other object on road
+29,51,42,Darkness - no lighting,Fine no high winds,Dry,Road sign or marking defective or obscured,None
+29,46,42,Daylight,Other,Wet or damp,Mud,None
+29,46,47,Darkness - lights lit,Raining + high winds,Flood over 3cm. deep,None,None
+29,64,42,Daylight,Raining + high winds,Wet or damp,Roadworks,None
+29,65,37,Daylight,Other,Wet or damp,Roadworks,None
+28,61,49,Darkness - no lighting,Fine no high winds,Dry,None,Vehicle load on road
+28,49,35,Darkness - lighting unknown,Snowing no high winds,Snow,None,None
+28,50,33,Darkness - lights unlit,Fine no high winds,Dry,None,Other object on road
+28,48,47,Daylight,Raining + high winds,Wet or damp,Oil or diesel,None
+27,48,36,Darkness - lights lit,Fine no high winds,Snow,None,None
+26,36,32,Darkness - no lighting,Snowing + high winds,Frost or ice,None,None
+26,32,30,Darkness - lights lit,Raining no high winds,Wet or damp,Mud,None
+26,35,38,Darkness - no lighting,Raining no high winds,Wet or damp,Road surface defective,None
+26,67,50,Darkness - lights lit,Fine no high winds,Wet or damp,None,Previous accident
+26,46,35,Darkness - lights unlit,Fine + high winds,Dry,None,None
+26,46,40,Darkness - lights unlit,Fine + high winds,Wet or damp,None,None
+26,46,31,Daylight,Fine no high winds,Wet or damp,Roadworks,Other object on road
+26,46,32,Darkness - lights lit,Raining + high winds,Wet or damp,None,Other object on road
+25,46,38,Darkness - lights lit,Raining + high winds,Dry,None,None
+24,39,29,Darkness - lights lit,Fine no high winds,Wet or damp,Road surface defective,None
+24,33,30,Darkness - no lighting,Raining + high winds,Wet or damp,Mud,None
+24,41,28,Daylight,Fine no high winds,Frost or ice,Mud,None
+23,31,27,Daylight,Fine no high winds,Frost or ice,Road surface defective,None
+23,37,34,Daylight,Other,Wet or damp,Oil or diesel,None
+23,49,41,Darkness - no lighting,Raining no high winds,Dry,None,None
+23,44,32,Darkness - lights lit,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,None
+22,42,36,Darkness - lights lit,Fine no high winds,Dry,Oil or diesel,None
+22,34,35,Daylight,Raining + high winds,Wet or damp,Mud,None
+22,33,28,Darkness - lighting unknown,Fine no high winds,Dry,None,Any animal in carriageway (except ridden horse)
+22,32,30,Darkness - no lighting,Fine no high winds,Snow,None,None
+22,34,33,Daylight,Fine + high winds,Wet or damp,None,Other object on road
+22,27,33,Darkness - no lighting,Fine no high winds,Wet or damp,Road surface defective,None
+21,41,21,Darkness - lighting unknown,Raining no high winds,Wet or damp,Roadworks,None
+20,30,22,Darkness - no lighting,Fine no high winds,Dry,None,Pedestrian in carriageway not injured
+20,38,24,Darkness - lights lit,Snowing + high winds,Frost or ice,None,None
+19,27,27,Daylight,Raining + high winds,Wet or damp,Road surface defective,None
+19,27,22,Daylight,Fine no high winds,Dry,Auto traffic signal - out,Vehicle load on road
+19,37,21,Daylight,Raining no high winds,Wet or damp,Roadworks,Other object on road
+19,36,33,Darkness - lights lit,Other,Wet or damp,Roadworks,None
+18,37,24,Daylight,Fine no high winds,Frost or ice,Roadworks,None
+18,32,32,Darkness - lights lit,Raining no high winds,Wet or damp,Roadworks,Other object on road
+18,31,21,Daylight,Fine no high winds,Frost or ice,None,Other object on road
+18,30,33,Darkness - no lighting,Fine no high winds,Flood over 3cm. deep,None,None
+18,29,24,Darkness - lights lit,Raining no high winds,Wet or damp,Road surface defective,None
+18,29,21,Darkness - lights lit,Fine no high winds,Wet or damp,Mud,None
+17,29,22,Darkness - no lighting,Fine no high winds,Dry,Roadworks,Other object on road
+17,35,24,Darkness - no lighting,Raining no high winds,Wet or damp,Oil or diesel,None
+17,25,25,Daylight,Raining + high winds,Frost or ice,None,None
+17,43,22,Daylight,Fine no high winds,Frost or ice,None,Previous accident
+16,18,19,Darkness - no lighting,Fog or mist,Wet or damp,None,Any animal in carriageway (except ridden horse)
+16,26,22,Darkness - lights lit,Raining + high winds,Wet or damp,Roadworks,None
+16,28,20,Darkness - no lighting,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,None
+16,24,21,Daylight,Fine + high winds,Wet or damp,Mud,None
+16,24,23,Darkness - no lighting,Fine no high winds,Wet or damp,Oil or diesel,None
+15,25,18,Darkness - lights unlit,Other,Frost or ice,None,None
+15,24,20,Darkness - lighting unknown,Fog or mist,Dry,None,None
+15,26,21,Darkness - lighting unknown,Snowing no high winds,Wet or damp,None,None
+15,17,15,Darkness - no lighting,Other,Wet or damp,None,Any animal in carriageway (except ridden horse)
+14,27,27,Daylight,Fine no high winds,Wet or damp,Auto signal part defective,None
+14,20,18,Darkness - lights lit,Fine + high winds,Dry,None,Other object on road
+14,27,17,Darkness - lights lit,Raining no high winds,Snow,None,None
+14,24,19,Darkness - lighting unknown,Fine no high winds,Wet or damp,Roadworks,None
+14,24,18,Darkness - lights lit,Snowing no high winds,Dry,None,None
+14,22,19,Daylight,Fine + high winds,Snow,None,None
+14,17,16,Darkness - no lighting,Other,Wet or damp,Mud,None
+14,30,26,Darkness - lights lit,Fine no high winds,Wet or damp,Auto signal part defective,None
+14,23,19,Darkness - lights lit,Fine no high winds,Wet or damp,Roadworks,Other object on road
+13,23,18,Darkness - lights lit,Raining no high winds,Wet or damp,Auto signal part defective,None
+13,32,23,Daylight,Fine + high winds,Wet or damp,Roadworks,None
+13,22,24,Darkness - no lighting,Fine + high winds,Dry,None,Other object on road
+13,13,15,Darkness - no lighting,Raining + high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+13,34,18,Darkness - no lighting,Raining no high winds,Wet or damp,None,Vehicle load on road
+13,19,16,Daylight,Fine no high winds,Wet or damp,Mud,Other object on road
+13,23,23,Darkness - lights lit,Other,Snow,None,None
+12,12,16,Darkness - lights unlit,Fine no high winds,Dry,None,Any animal in carriageway (except ridden horse)
+12,24,21,Daylight,Raining no high winds,Wet or damp,Road surface defective,Other object on road
+12,18,17,Daylight,Raining + high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+12,17,16,Darkness - no lighting,Fine + high winds,Frost or ice,None,None
+12,21,13,Darkness - lights lit,Fine + high winds,Dry,Roadworks,None
+12,23,17,Daylight,Other,Dry,Auto traffic signal - out,None
+12,25,24,Darkness - no lighting,Fine no high winds,Wet or damp,Auto traffic signal - out,None
+12,23,15,Darkness - lighting unknown,Fine no high winds,Dry,Road surface defective,None
+12,19,12,Darkness - no lighting,Fine no high winds,Wet or damp,None,Vehicle load on road
+12,22,17,Darkness - lights unlit,Fine no high winds,Dry,Auto traffic signal - out,None
+12,20,16,Darkness - no lighting,Raining + high winds,Wet or damp,Roadworks,None
+12,17,15,Darkness - no lighting,Fog or mist,Wet or damp,None,Other object on road
+12,20,14,Darkness - lights unlit,Snowing no high winds,Wet or damp,None,None
+12,20,16,Darkness - lights lit,Fine + high winds,Wet or damp,None,Other object on road
+12,18,13,Daylight,Fine no high winds,Dry,Oil or diesel,Other object on road
+11,16,15,Darkness - lights lit,Fine + high winds,Frost or ice,None,None
+11,20,17,Darkness - no lighting,Fine no high winds,Dry,Auto traffic signal - out,None
+11,16,15,Darkness - no lighting,Raining no high winds,Wet or damp,Auto traffic signal - out,None
+11,12,15,Daylight,Other,Wet or damp,None,Pedestrian in carriageway not injured
+11,19,16,Darkness - lights lit,Fine no high winds,Dry,Mud,None
+11,15,17,Darkness - lighting unknown,Fine no high winds,Wet or damp,None,Other object on road
+11,22,14,Daylight,Raining no high winds,Wet or damp,Auto signal part defective,None
+11,53,30,Daylight,Snowing + high winds,Snow,None,Previous accident
+11,21,16,Darkness - lights unlit,Raining no high winds,Wet or damp,Roadworks,None
+11,12,11,Daylight,Fine no high winds,Dry,Mud,Other object on road
+11,22,15,Darkness - lights lit,Other,Dry,Roadworks,None
+11,15,13,Daylight,Raining no high winds,Wet or damp,Oil or diesel,Other object on road
+10,16,15,Daylight,Other,Dry,None,Pedestrian in carriageway not injured
+10,19,11,Daylight,Fine + high winds,Dry,None,Vehicle load on road
+10,30,16,Daylight,Raining + high winds,Wet or damp,None,Previous accident
+10,20,10,Darkness - lights lit,Fine no high winds,Frost or ice,None,Other object on road
+10,15,11,Daylight,Other,Frost or ice,Road surface defective,None
+10,14,10,Daylight,Fine no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+10,17,13,Daylight,Fine no high winds,Dry,Roadworks,Pedestrian in carriageway not injured
+10,22,13,Darkness - no lighting,Fine + high winds,Wet or damp,None,Other object on road
+10,29,21,Daylight,Snowing no high winds,Snow,None,Previous accident
+10,13,15,Daylight,Other,Wet or damp,Road surface defective,None
+10,18,13,Darkness - lights unlit,Fine no high winds,Wet or damp,Roadworks,None
+10,14,20,Darkness - lights unlit,Fine no high winds,Dry,Road sign or marking defective or obscured,None
+10,27,20,Darkness - no lighting,Raining + high winds,Wet or damp,None,Previous accident
+10,15,12,Daylight,Other,Frost or ice,None,Other object on road
+9,16,13,Darkness - lights lit,Other,Frost or ice,None,Other object on road
+9,11,10,Darkness - lights unlit,Raining no high winds,Flood over 3cm. deep,None,None
+9,15,10,Daylight,Fine no high winds,Dry,Auto traffic signal - out,Other object on road
+9,18,11,Daylight,Other,Wet or damp,None,Vehicle load on road
+9,20,17,Darkness - no lighting,Fine no high winds,Frost or ice,None,Previous accident
+9,15,9,Daylight,Snowing + high winds,Dry,None,None
+9,19,11,Daylight,Raining no high winds,Dry,None,Other object on road
+9,20,13,Daylight,Fog or mist,Wet or damp,Roadworks,None
+9,20,15,Daylight,Other,Wet or damp,Auto traffic signal - out,None
+9,13,16,Darkness - no lighting,Raining + high winds,Frost or ice,None,None
+9,13,9,Darkness - lighting unknown,Fine no high winds,Dry,None,Pedestrian in carriageway not injured
+9,16,12,Daylight,Fine + high winds,Dry,None,Any animal in carriageway (except ridden horse)
+9,19,10,Darkness - lights unlit,Raining no high winds,Dry,None,None
+9,15,14,Darkness - lights lit,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,None
+8,14,9,Daylight,Fine no high winds,Dry,Road sign or marking defective or obscured,Other object on road
+8,12,10,Darkness - lights lit,Fine no high winds,Dry,Road sign or marking defective or obscured,Other object on road
+8,11,34,Daylight,Raining no high winds,Wet or damp,Mud,Other object on road
+8,12,15,Daylight,Fog or mist,Wet or damp,Mud,None
+8,13,10,Darkness - no lighting,Other,Wet or damp,None,Other object on road
+8,24,14,Darkness - no lighting,Snowing + high winds,Wet or damp,None,None
+8,15,14,Daylight,Raining + high winds,Wet or damp,None,Vehicle load on road
+8,13,9,Darkness - no lighting,Fog or mist,Wet or damp,Mud,None
+8,8,10,Darkness - lights lit,Fine no high winds,Dry,Road surface defective,Other object on road
+8,13,15,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,None,Other object on road
+8,9,8,Darkness - no lighting,Fine no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+8,16,15,Darkness - lights lit,Fine + high winds,Wet or damp,Roadworks,None
+8,16,14,Darkness - lighting unknown,Snowing no high winds,Frost or ice,None,None
+7,11,8,Darkness - lights lit,Other,Dry,None,Other object on road
+7,12,9,Daylight,Raining no high winds,Flood over 3cm. deep,Road surface defective,None
+7,10,9,Darkness - no lighting,Raining no high winds,Snow,None,None
+7,8,8,Darkness - no lighting,Raining no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+7,11,9,Darkness - lighting unknown,Fine no high winds,Dry,Road sign or marking defective or obscured,None
+7,15,10,Darkness - lights lit,Fine no high winds,Frost or ice,Roadworks,None
+7,8,9,Daylight,Other,Wet or damp,None,Any animal in carriageway (except ridden horse)
+7,15,9,Daylight,Snowing no high winds,Wet or damp,Roadworks,None
+7,10,7,Darkness - lighting unknown,Raining no high winds,Wet or damp,Road surface defective,None
+7,11,12,Daylight,Raining no high winds,Dry,None,Vehicle load on road
+7,10,8,Darkness - lighting unknown,Raining no high winds,Flood over 3cm. deep,None,None
+7,16,8,Daylight,Other,Dry,None,Vehicle load on road
+7,10,10,Darkness - lights unlit,Fine no high winds,Wet or damp,None,Other object on road
+7,8,8,Darkness - no lighting,Fine no high winds,Frost or ice,Mud,None
+7,10,7,Darkness - lighting unknown,Fog or mist,Frost or ice,None,None
+7,12,7,Daylight,Raining + high winds,Wet or damp,Auto traffic signal - out,None
+7,11,9,Daylight,Raining no high winds,Flood over 3cm. deep,None,Other object on road
+7,23,11,Daylight,Other,Frost or ice,None,Previous accident
+7,11,11,Daylight,Fine no high winds,Wet or damp,Oil or diesel,Other object on road
+7,9,10,Darkness - no lighting,Other,Snow,None,None
+7,10,11,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,None,Other object on road
+7,12,13,Darkness - lights lit,Raining + high winds,Frost or ice,None,None
+7,13,8,Darkness - lights lit,Fog or mist,Wet or damp,Roadworks,None
+6,9,7,Darkness - lights unlit,Snowing + high winds,Snow,None,None
+6,8,6,Darkness - lighting unknown,Raining + high winds,Wet or damp,None,Other object on road
+6,10,8,Darkness - lighting unknown,Fine no high winds,Snow,None,None
+6,8,8,Darkness - lights unlit,Raining no high winds,Wet or damp,Road surface defective,None
+6,10,7,Darkness - lighting unknown,Raining no high winds,Wet or damp,Mud,None
+6,10,8,Darkness - lights unlit,Snowing no high winds,Snow,None,None
+6,9,10,Darkness - no lighting,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,None
+6,9,8,Darkness - lights unlit,Fog or mist,Dry,None,None
+6,11,6,Darkness - lights lit,Fine + high winds,Snow,None,None
+6,14,8,Darkness - lighting unknown,Raining no high winds,Wet or damp,Auto traffic signal - out,None
+6,18,17,Darkness - no lighting,Fine no high winds,Wet or damp,Roadworks,Previous accident
+6,11,15,Daylight,Fine no high winds,Frost or ice,None,Vehicle load on road
+6,20,11,Daylight,Fine no high winds,Dry,Roadworks,Previous accident
+6,6,7,Darkness - lights unlit,Fine no high winds,Dry,None,Pedestrian in carriageway not injured
+6,7,8,Darkness - no lighting,Fine + high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+6,17,11,Darkness - lights unlit,Fine no high winds,Dry,None,Previous accident
+6,9,8,Darkness - no lighting,Fine no high winds,Dry,Road surface defective,Other object on road
+6,9,8,Darkness - no lighting,Fine no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+6,15,8,Darkness - no lighting,Other,Frost or ice,None,Previous accident
+6,9,6,Darkness - lights lit,Other,Wet or damp,None,Vehicle load on road
+6,12,13,Darkness - no lighting,Fine no high winds,Wet or damp,Roadworks,Other object on road
+6,10,9,Daylight,Snowing no high winds,Snow,Roadworks,None
+6,8,6,Daylight,Fine + high winds,Dry,Road surface defective,None
+6,10,11,Darkness - lights lit,Other,Wet or damp,Road sign or marking defective or obscured,None
+6,9,11,Daylight,Fog or mist,Wet or damp,Oil or diesel,None
+6,23,8,Darkness - lights lit,Raining + high winds,Wet or damp,None,Previous accident
+6,7,6,Daylight,Other,Flood over 3cm. deep,None,None
+6,8,6,Darkness - lighting unknown,Raining no high winds,Frost or ice,None,None
+6,13,6,Daylight,Fine no high winds,Dry,Roadworks,Vehicle load on road
+6,10,6,Daylight,Snowing no high winds,Snow,None,Other object on road
+6,10,8,Darkness - lighting unknown,Fine no high winds,Dry,None,Vehicle load on road
+6,9,9,Darkness - lights unlit,Raining no high winds,Wet or damp,None,Other object on road
+5,16,7,Darkness - no lighting,Snowing no high winds,Snow,None,Previous accident
+5,23,8,Daylight,Other,Wet or damp,None,Previous accident
+5,8,8,Darkness - lighting unknown,Snowing + high winds,Snow,None,None
+5,5,5,Darkness - lighting unknown,Fine no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+5,11,5,Daylight,Snowing no high winds,Snow,Road sign or marking defective or obscured,None
+5,8,6,Daylight,Snowing no high winds,Wet or damp,None,Other object on road
+5,10,7,Daylight,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,None
+5,10,8,Darkness - lighting unknown,Raining no high winds,Wet or damp,None,Other object on road
+5,11,5,Daylight,Fine + high winds,Wet or damp,Oil or diesel,None
+5,10,10,Darkness - lighting unknown,Fine no high winds,Dry,Auto traffic signal - out,None
+5,8,8,Daylight,Other,Dry,Mud,None
+5,8,13,Daylight,Fine no high winds,Frost or ice,Auto traffic signal - out,None
+5,9,5,Darkness - lights unlit,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,None
+5,11,5,Daylight,Fine no high winds,Dry,Roadworks,Any animal in carriageway (except ridden horse)
+5,15,12,Darkness - no lighting,Fine no high winds,Dry,Roadworks,Previous accident
+5,7,6,Darkness - no lighting,Fine no high winds,Frost or ice,None,Other object on road
+5,9,6,Darkness - lights unlit,Fine no high winds,Wet or damp,Oil or diesel,None
+5,12,5,Darkness - lights lit,Other,Dry,Auto traffic signal - out,None
+5,5,9,Darkness - lights lit,Raining + high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+5,8,5,Daylight,Fine no high winds,Wet or damp,Road surface defective,Other object on road
+5,6,7,Darkness - lighting unknown,Raining no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+5,6,10,Darkness - no lighting,Raining + high winds,Flood over 3cm. deep,None,Other object on road
+5,6,7,Darkness - lights lit,Other,Wet or damp,None,Any animal in carriageway (except ridden horse)
+5,12,10,Darkness - no lighting,Fog or mist,Wet or damp,Roadworks,None
+5,8,7,Daylight,Fine + high winds,Dry,Mud,None
+5,10,9,Darkness - lights lit,Raining + high winds,Wet or damp,Auto traffic signal - out,None
+5,12,6,Darkness - lights lit,Fine + high winds,Wet or damp,Auto traffic signal - out,None
+5,8,5,Darkness - lighting unknown,Other,Dry,Roadworks,None
+5,6,6,Darkness - lights lit,Other,Dry,None,Pedestrian in carriageway not injured
+5,6,5,Daylight,Fine + high winds,Dry,None,Pedestrian in carriageway not injured
+4,8,8,Daylight,Fine no high winds,Frost or ice,Road sign or marking defective or obscured,None
+4,7,6,Darkness - lights unlit,Fine no high winds,Wet or damp,Auto traffic signal - out,None
+4,8,6,Daylight,Fog or mist,Wet or damp,None,Other object on road
+4,8,8,Daylight,Other,Wet or damp,Road sign or marking defective or obscured,None
+4,9,8,Daylight,Raining + high winds,Wet or damp,Roadworks,Other object on road
+4,9,7,Daylight,Snowing + high winds,Wet or damp,None,Other object on road
+4,14,11,Darkness - lights lit,Fine no high winds,Frost or ice,None,Previous accident
+4,7,6,Darkness - lights unlit,Raining no high winds,Snow,None,None
+4,6,4,Darkness - lighting unknown,Fine no high winds,Wet or damp,Mud,None
+4,5,4,Darkness - lights lit,Other,Wet or damp,Road surface defective,None
+4,6,6,Darkness - lights unlit,Fog or mist,Frost or ice,None,None
+4,5,7,Daylight,Snowing no high winds,Frost or ice,Road surface defective,None
+4,8,7,Darkness - lights unlit,Other,Wet or damp,None,Other object on road
+4,12,9,Darkness - no lighting,Other,Wet or damp,None,Previous accident
+4,8,7,Darkness - no lighting,Fine no high winds,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+4,6,5,Darkness - no lighting,Fine + high winds,Dry,None,Any animal in carriageway (except ridden horse)
+4,7,5,Darkness - lights lit,Fine + high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+4,8,6,Darkness - no lighting,Other,Frost or ice,Roadworks,None
+4,5,5,Darkness - no lighting,Raining + high winds,Wet or damp,Road surface defective,None
+4,8,7,Darkness - no lighting,Fine no high winds,Frost or ice,Road surface defective,None
+4,6,10,Darkness - no lighting,Fine no high winds,Frost or ice,Roadworks,None
+4,8,5,Daylight,Fine no high winds,Dry,Auto traffic signal - out,Previous accident
+4,7,4,Daylight,Fine + high winds,Wet or damp,None,Previous accident
+4,4,5,Darkness - no lighting,Snowing + high winds,Snow,None,Other object on road
+4,9,4,Darkness - lights lit,Fine no high winds,Dry,Auto traffic signal - out,Other object on road
+4,4,4,Darkness - lighting unknown,Other,Wet or damp,Road surface defective,None
+4,5,5,Daylight,Other,Dry,None,Any animal in carriageway (except ridden horse)
+4,6,5,Darkness - no lighting,Fine + high winds,Wet or damp,Mud,None
+4,7,7,Daylight,Other,Dry,Road surface defective,None
+4,7,4,Darkness - lighting unknown,Snowing + high winds,Frost or ice,None,None
+4,6,8,Darkness - no lighting,Other,Frost or ice,Mud,None
+4,6,6,Daylight,Other,Frost or ice,Auto traffic signal - out,None
+4,9,7,Darkness - lights lit,Other,Wet or damp,None,Previous accident
+4,5,5,Darkness - lights lit,Raining + high winds,Wet or damp,None,Pedestrian in carriageway not injured
+4,8,5,Daylight,Raining no high winds,Dry,Roadworks,None
+4,8,5,Darkness - lighting unknown,Fine no high winds,Wet or damp,Oil or diesel,None
+4,7,6,Darkness - lights lit,Other,Wet or damp,Mud,None
+4,7,4,Daylight,Fine no high winds,Dry,Oil or diesel,Previous accident
+4,5,5,Daylight,Raining + high winds,Flood over 3cm. deep,None,Other object on road
+4,6,4,Darkness - lighting unknown,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,None
+4,5,6,Daylight,Fine + high winds,Flood over 3cm. deep,None,None
+4,10,7,Daylight,Fine no high winds,Wet or damp,Oil or diesel,Previous accident
+4,5,4,Darkness - lights lit,Other,Wet or damp,None,Pedestrian in carriageway not injured
+4,6,4,Darkness - no lighting,Fine no high winds,Wet or damp,Road surface defective,Other object on road
+4,5,4,Darkness - lights lit,Raining + high winds,Wet or damp,None,Vehicle load on road
+4,4,6,Darkness - lights lit,Fine no high winds,Dry,Roadworks,Pedestrian in carriageway not injured
+4,9,4,Daylight,Fine + high winds,Dry,Auto traffic signal - out,None
+3,4,3,Darkness - no lighting,Snowing no high winds,Frost or ice,None,Other object on road
+3,4,6,Darkness - lighting unknown,Raining + high winds,Flood over 3cm. deep,None,None
+3,4,6,Darkness - lights lit,Fog or mist,Wet or damp,None,Any animal in carriageway (except ridden horse)
+3,3,3,Darkness - lights lit,Raining + high winds,Wet or damp,Road surface defective,Other object on road
+3,6,4,Darkness - lights lit,Fine no high winds,Flood over 3cm. deep,None,None
+3,4,4,Darkness - no lighting,Raining no high winds,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+3,7,4,Darkness - lights lit,Other,Dry,None,Previous accident
+3,6,3,Darkness - lighting unknown,Other,Dry,None,Other object on road
+3,4,3,Darkness - lights unlit,Fine no high winds,Dry,Roadworks,Other object on road
+3,4,3,Darkness - lights lit,Fine no high winds,Wet or damp,Road surface defective,Other object on road
+3,5,4,Darkness - lights lit,Other,Flood over 3cm. deep,None,None
+3,5,3,Darkness - lights lit,Fine no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+3,8,3,Darkness - no lighting,Raining no high winds,Wet or damp,Roadworks,Other object on road
+3,5,5,Darkness - no lighting,Fine no high winds,Frost or ice,None,Vehicle load on road
+3,4,8,Darkness - no lighting,Fine no high winds,Dry,Mud,Other object on road
+3,6,4,Daylight,Fine + high winds,Wet or damp,None,Pedestrian in carriageway not injured
+3,6,3,Darkness - lights lit,Other,Wet or damp,Roadworks,Other object on road
+3,5,6,Darkness - lights lit,Fog or mist,Snow,None,None
+3,4,3,Daylight,Fine no high winds,Flood over 3cm. deep,Mud,None
+3,4,3,Darkness - lights unlit,Other,Snow,None,None
+3,4,4,Daylight,Raining no high winds,Wet or damp,Roadworks,Pedestrian in carriageway not injured
+3,4,3,Darkness - lights lit,Snowing no high winds,Wet or damp,None,Other object on road
+3,5,4,Darkness - lighting unknown,Other,Wet or damp,Mud,None
+3,3,3,Daylight,Fine no high winds,Dry,Road surface defective,Vehicle load on road
+3,3,4,Daylight,Fine no high winds,Wet or damp,Mud,Pedestrian in carriageway not injured
+3,5,4,Darkness - lights unlit,Raining no high winds,Frost or ice,None,None
+3,4,4,Darkness - lighting unknown,Fine no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+3,4,4,Darkness - lights lit,Raining + high winds,Snow,None,None
+3,6,5,Daylight,Raining no high winds,Dry,Auto traffic signal - out,None
+3,4,4,Darkness - lighting unknown,Fine no high winds,Dry,Oil or diesel,None
+3,4,4,Darkness - lights lit,Other,Frost or ice,None,Pedestrian in carriageway not injured
+3,3,4,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,Road surface defective,Other object on road
+3,6,4,Darkness - lighting unknown,Fine no high winds,Wet or damp,Road surface defective,None
+3,4,3,Darkness - no lighting,Snowing no high winds,Snow,None,Other object on road
+3,4,3,Darkness - lights lit,Fog or mist,Dry,Roadworks,None
+3,6,3,Darkness - lights unlit,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,None
+3,3,5,Darkness - no lighting,Other,Wet or damp,Road surface defective,None
+3,5,5,Daylight,Raining + high winds,Flood over 3cm. deep,Road surface defective,None
+3,5,5,Daylight,Fog or mist,Snow,None,None
+3,3,5,Darkness - lights unlit,Fine no high winds,Dry,Road surface defective,None
+3,5,8,Daylight,Other,Dry,None,Previous accident
+3,5,5,Darkness - lights unlit,Snowing no high winds,Frost or ice,None,None
+3,5,3,Darkness - lighting unknown,Raining + high winds,Dry,None,None
+3,6,3,Daylight,Fine + high winds,Dry,Road sign or marking defective or obscured,None
+3,6,4,Darkness - no lighting,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,None
+3,3,3,Darkness - no lighting,Raining no high winds,Wet or damp,Mud,Other object on road
+3,13,6,Darkness - lights unlit,Fine no high winds,Wet or damp,None,Previous accident
+3,9,5,Darkness - no lighting,Snowing + high winds,Snow,None,Previous accident
+3,6,8,Daylight,Fine no high winds,Dry,Road sign or marking defective or obscured,Vehicle load on road
+3,5,7,Darkness - lights lit,Fine no high winds,Dry,Auto traffic signal - out,Vehicle load on road
+3,4,3,Darkness - lights lit,Other,Frost or ice,Road surface defective,None
+3,4,3,Daylight,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+3,11,4,Daylight,Fine no high winds,Snow,None,Previous accident
+3,4,4,Darkness - lights unlit,Raining no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+3,5,5,Darkness - lights unlit,Fine no high winds,Dry,None,Vehicle load on road
+3,3,5,Darkness - no lighting,Other,Dry,None,Any animal in carriageway (except ridden horse)
+3,7,6,Darkness - lights lit,Other,Wet or damp,Oil or diesel,None
+3,5,4,Darkness - lights lit,Other,Wet or damp,Auto traffic signal - out,None
+3,3,3,Darkness - no lighting,Raining + high winds,Flood over 3cm. deep,Mud,None
+3,9,5,Darkness - no lighting,Fine no high winds,Dry,Auto traffic signal - out,Vehicle load on road
+3,3,3,Daylight,Fine no high winds,Frost or ice,None,Pedestrian in carriageway not injured
+3,8,3,Daylight,Snowing no high winds,Wet or damp,Oil or diesel,None
+3,4,4,Darkness - lights lit,Other,Dry,Road sign or marking defective or obscured,None
+3,4,3,Daylight,Other,Dry,Auto signal part defective,None
+3,7,3,Darkness - lighting unknown,Snowing + high winds,Wet or damp,None,None
+3,5,3,Darkness - lights lit,Snowing no high winds,Snow,None,Other object on road
+3,3,4,Daylight,Other,Wet or damp,Roadworks,Other object on road
+3,6,7,Daylight,Fine + high winds,Dry,Auto signal part defective,None
+3,5,4,Darkness - lights lit,Raining no high winds,Wet or damp,Road surface defective,Other object on road
+3,5,4,Daylight,Other,Dry,Roadworks,Other object on road
+3,5,3,Daylight,Fine no high winds,Dry,Road sign or marking defective or obscured,Previous accident
+3,3,5,Darkness - lights unlit,Raining + high winds,Wet or damp,None,Other object on road
+3,9,3,Darkness - lighting unknown,Fine no high winds,Dry,None,Previous accident
+3,5,3,Darkness - lighting unknown,Fine no high winds,Dry,Mud,None
+3,4,5,Daylight,Fine no high winds,Frost or ice,Oil or diesel,None
+3,3,3,Daylight,Fine no high winds,Dry,Road surface defective,Any animal in carriageway (except ridden horse)
+3,6,8,Darkness - lights lit,Other,Frost or ice,Roadworks,None
+3,3,3,Daylight,Fine no high winds,Dry,Oil or diesel,Vehicle load on road
+3,7,4,Darkness - no lighting,Other,Wet or damp,None,Vehicle load on road
+3,3,3,Daylight,Fog or mist,Frost or ice,Mud,None
+3,3,3,Darkness - no lighting,Fog or mist,Dry,None,Any animal in carriageway (except ridden horse)
+3,3,3,Darkness - no lighting,Other,Flood over 3cm. deep,None,None
+3,7,5,Daylight,Fine + high winds,Dry,None,Previous accident
+3,3,3,Darkness - lights lit,Fine no high winds,Frost or ice,Road surface defective,None
+3,5,5,Darkness - no lighting,Fine no high winds,Flood over 3cm. deep,None,Other object on road
+3,5,7,Darkness - lights lit,Raining no high winds,Wet or damp,Auto traffic signal - out,Other object on road
+3,5,5,Darkness - lights lit,Raining + high winds,Wet or damp,Road surface defective,None
+3,4,5,Darkness - no lighting,Fog or mist,Snow,None,None
+3,6,4,Daylight,Raining no high winds,Dry,Auto signal part defective,None
+2,6,7,Daylight,Fog or mist,Wet or damp,None,Previous accident
+2,3,2,Daylight,Snowing + high winds,Frost or ice,Road surface defective,None
+2,4,2,Daylight,Other,Frost or ice,Roadworks,None
+2,2,3,Darkness - lights lit,Fine no high winds,Dry,Auto traffic signal - out,Pedestrian in carriageway not injured
+2,3,2,Darkness - no lighting,Fine + high winds,Wet or damp,Roadworks,None
+2,3,2,Daylight,Fog or mist,Frost or ice,None,Any animal in carriageway (except ridden horse)
+2,4,5,Darkness - lights lit,Fine + high winds,Dry,Auto traffic signal - out,None
+2,3,3,Darkness - lights unlit,Fine no high winds,Wet or damp,None,Vehicle load on road
+2,4,2,Darkness - no lighting,Other,Wet or damp,Roadworks,None
+2,4,3,Darkness - lights lit,Raining no high winds,Dry,Auto traffic signal - out,None
+2,6,6,Darkness - lights unlit,Snowing + high winds,Frost or ice,None,None
+2,2,2,Darkness - no lighting,Raining no high winds,Wet or damp,Mud,Vehicle load on road
+2,5,8,Daylight,Fine + high winds,Wet or damp,None,Vehicle load on road
+2,3,3,Darkness - lights lit,Raining no high winds,Wet or damp,Roadworks,Pedestrian in carriageway not injured
+2,6,2,Daylight,Fog or mist,Frost or ice,None,Previous accident
+2,3,4,Darkness - no lighting,Fog or mist,Wet or damp,Road surface defective,None
+2,3,2,Daylight,Snowing no high winds,Snow,None,Vehicle load on road
+2,5,2,Darkness - no lighting,Snowing no high winds,Frost or ice,None,Previous accident
+2,3,2,Darkness - lights unlit,Fine no high winds,Dry,Mud,None
+2,3,7,Darkness - lights unlit,Raining no high winds,Wet or damp,Mud,None
+2,4,3,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,None,Previous accident
+2,2,2,Darkness - lights lit,Fog or mist,Dry,None,Other object on road
+2,4,2,Darkness - lights lit,Snowing + high winds,Dry,None,None
+2,2,2,Darkness - no lighting,Raining + high winds,Dry,None,None
+2,2,3,Darkness - no lighting,Raining + high winds,Flood over 3cm. deep,Road surface defective,None
+2,4,3,Daylight,Raining + high winds,Wet or damp,Auto signal part defective,None
+2,2,2,Daylight,Fine no high winds,Dry,Mud,Vehicle load on road
+2,5,3,Darkness - lights lit,Other,Dry,None,Vehicle load on road
+2,2,2,Daylight,Raining no high winds,Flood over 3cm. deep,Road surface defective,Other object on road
+2,3,2,Darkness - lights lit,Fine no high winds,Dry,Roadworks,Vehicle load on road
+2,2,2,Darkness - no lighting,Fine + high winds,Snow,None,None
+2,6,4,Darkness - lights unlit,Raining + high winds,Wet or damp,Roadworks,None
+2,12,11,Daylight,Raining no high winds,Frost or ice,None,Previous accident
+2,5,3,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,None,Previous accident
+2,2,2,Daylight,Fine no high winds,Wet or damp,Roadworks,Vehicle load on road
+2,5,7,Darkness - no lighting,Raining + high winds,Wet or damp,None,Vehicle load on road
+2,3,2,Daylight,Other,Wet or damp,Mud,Other object on road
+2,3,2,Daylight,Fog or mist,Wet or damp,Road surface defective,None
+2,3,2,Daylight,Snowing + high winds,Snow,None,Other object on road
+2,2,2,Darkness - lights lit,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,Previous accident
+2,3,6,Darkness - no lighting,Raining + high winds,Wet or damp,Oil or diesel,None
+2,4,2,Darkness - no lighting,Other,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+2,4,2,Daylight,Fine + high winds,Wet or damp,Auto traffic signal - out,None
+2,5,3,Darkness - lighting unknown,Fine no high winds,Wet or damp,None,Vehicle load on road
+2,4,2,Darkness - lights unlit,Fine no high winds,Snow,None,None
+2,2,2,Darkness - no lighting,Fog or mist,Wet or damp,None,Pedestrian in carriageway not injured
+2,4,3,Daylight,Other,Frost or ice,None,Vehicle load on road
+2,2,2,Darkness - no lighting,Raining no high winds,Frost or ice,Mud,None
+2,5,2,Darkness - no lighting,Fine + high winds,Dry,Roadworks,Other object on road
+2,4,3,Daylight,Snowing + high winds,Flood over 3cm. deep,None,None
+2,4,3,Daylight,Snowing + high winds,Snow,None,Vehicle load on road
+2,4,3,Daylight,Raining no high winds,Wet or damp,Oil or diesel,Pedestrian in carriageway not injured
+2,8,10,Daylight,Snowing no high winds,Frost or ice,None,Previous accident
+2,2,2,Darkness - lighting unknown,Fine + high winds,Dry,Roadworks,None
+2,2,2,Darkness - lights lit,Other,Frost or ice,Auto traffic signal - out,None
+2,5,11,Daylight,Fine + high winds,Dry,Roadworks,Other object on road
+2,5,3,Daylight,Fine no high winds,Wet or damp,Roadworks,Previous accident
+2,3,3,Darkness - lights lit,Snowing no high winds,Wet or damp,Roadworks,Other object on road
+2,3,2,Darkness - lighting unknown,Other,Wet or damp,Auto traffic signal - out,None
+2,3,2,Daylight,Other,Flood over 3cm. deep,Mud,None
+2,6,6,Darkness - no lighting,Fine + high winds,Dry,Roadworks,None
+2,2,2,Darkness - no lighting,Snowing no high winds,Snow,None,Any animal in carriageway (except ridden horse)
+2,3,4,Daylight,Fog or mist,Wet or damp,Auto traffic signal - out,None
+2,2,3,Darkness - lights unlit,Raining no high winds,Wet or damp,Roadworks,Other object on road
+2,5,4,Darkness - lights unlit,Fine no high winds,Flood over 3cm. deep,None,None
+2,4,2,Darkness - lights unlit,Fine no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+2,2,2,Daylight,Fog or mist,Dry,None,Any animal in carriageway (except ridden horse)
+2,2,2,Daylight,Other,Frost or ice,Mud,None
+2,2,2,Daylight,Snowing no high winds,Snow,Road surface defective,Other object on road
+2,4,3,Darkness - lighting unknown,Other,Dry,Auto traffic signal - out,None
+2,4,2,Darkness - lights lit,Snowing no high winds,Wet or damp,Roadworks,None
+2,6,3,Daylight,Fine no high winds,Wet or damp,Auto traffic signal - out,Other object on road
+2,4,2,Daylight,Fog or mist,Wet or damp,None,Vehicle load on road
+2,2,4,Darkness - lights lit,Fine + high winds,Dry,None,Pedestrian in carriageway not injured
+2,2,2,Daylight,Raining no high winds,Dry,None,Pedestrian in carriageway not injured
+2,7,3,Daylight,Fine no high winds,Wet or damp,Mud,Previous accident
+2,3,2,Darkness - lighting unknown,Fine no high winds,Dry,Roadworks,Other object on road
+2,3,2,Daylight,Fog or mist,Dry,Roadworks,None
+2,5,4,Darkness - no lighting,Snowing no high winds,Dry,None,None
+2,2,2,Darkness - lighting unknown,Raining no high winds,Wet or damp,Oil or diesel,None
+2,4,3,Darkness - lights lit,Raining + high winds,Wet or damp,Auto signal part defective,None
+2,4,3,Daylight,Fine + high winds,Dry,Road sign or marking defective or obscured,Other object on road
+2,9,7,Darkness - no lighting,Raining no high winds,Frost or ice,None,Previous accident
+2,4,2,Daylight,Fine + high winds,Wet or damp,Oil or diesel,Previous accident
+2,3,2,Darkness - lights lit,Fine no high winds,Dry,Oil or diesel,Other object on road
+2,2,2,Darkness - lighting unknown,Fine no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+2,3,2,Darkness - lights lit,Snowing no high winds,Wet or damp,None,Vehicle load on road
+2,3,2,Daylight,Raining no high winds,Dry,Roadworks,Other object on road
+2,3,2,Darkness - lights unlit,Other,Wet or damp,None,Any animal in carriageway (except ridden horse)
+2,4,3,Darkness - no lighting,Other,Wet or damp,Road sign or marking defective or obscured,None
+2,3,2,Darkness - lights lit,Fog or mist,Wet or damp,None,Vehicle load on road
+2,4,2,Darkness - no lighting,Fog or mist,Wet or damp,None,Previous accident
+2,3,2,Darkness - lighting unknown,Other,Wet or damp,Roadworks,None
+2,4,3,Daylight,Fog or mist,Dry,Road sign or marking defective or obscured,None
+2,2,2,Darkness - lights lit,Other,Frost or ice,None,Any animal in carriageway (except ridden horse)
+2,3,2,Darkness - lights lit,Fog or mist,Wet or damp,Mud,None
+2,3,2,Darkness - no lighting,Snowing no high winds,Snow,Roadworks,None
+2,4,2,Darkness - lights lit,Raining + high winds,Wet or damp,Oil or diesel,None
+2,3,2,Darkness - lights lit,Snowing no high winds,Snow,Road surface defective,None
+2,4,2,Darkness - lights lit,Fine no high winds,Dry,Roadworks,Previous accident
+2,2,4,Darkness - lights lit,Fine no high winds,Frost or ice,Roadworks,Other object on road
+2,6,2,Darkness - no lighting,Fine + high winds,Dry,None,Previous accident
+2,2,3,Daylight,Fog or mist,Wet or damp,None,Any animal in carriageway (except ridden horse)
+2,3,3,Darkness - lights lit,Raining + high winds,Wet or damp,Mud,None
+2,3,2,Darkness - lights lit,Raining + high winds,Flood over 3cm. deep,None,Other object on road
+2,2,2,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,Road surface defective,None
+2,2,3,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,Mud,None
+2,3,2,Daylight,Other,Dry,Road sign or marking defective or obscured,None
+2,3,2,Darkness - lights lit,Other,Wet or damp,Auto signal part defective,None
+2,3,2,Darkness - lighting unknown,Snowing no high winds,Dry,None,None
+2,4,4,Darkness - lights unlit,Raining no high winds,Wet or damp,Auto traffic signal - out,None
+2,3,2,Darkness - lights lit,Raining + high winds,Wet or damp,Roadworks,Other object on road
+2,2,4,Darkness - no lighting,Fine no high winds,Frost or ice,Mud,Any animal in carriageway (except ridden horse)
+2,4,3,Darkness - lights unlit,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,None
+2,2,5,Darkness - no lighting,Other,Frost or ice,None,Any animal in carriageway (except ridden horse)
+2,2,2,Darkness - no lighting,Fog or mist,Frost or ice,Mud,None
+2,3,3,Daylight,Fine no high winds,Wet or damp,Oil or diesel,Vehicle load on road
+2,2,2,Daylight,Fine no high winds,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+2,2,2,Darkness - lights lit,Snowing no high winds,Snow,Roadworks,None
+2,4,2,Darkness - lights unlit,Raining no high winds,Wet or damp,None,Vehicle load on road
+2,2,2,Darkness - lights unlit,Raining no high winds,Wet or damp,Oil or diesel,None
+2,2,2,Darkness - no lighting,Other,Wet or damp,Oil or diesel,None
+2,4,2,Darkness - lighting unknown,Raining no high winds,Wet or damp,None,Vehicle load on road
+2,3,2,Darkness - lights unlit,Raining + high winds,Flood over 3cm. deep,None,None
+1,2,1,Darkness - no lighting,Snowing + high winds,Snow,Road sign or marking defective or obscured,None
+1,1,2,Darkness - no lighting,Raining + high winds,Snow,Road surface defective,Other object on road
+1,2,1,Darkness - lighting unknown,Fine no high winds,Dry,Auto signal part defective,None
+1,2,1,Darkness - no lighting,Fine no high winds,Wet or damp,Road surface defective,Previous accident
+1,2,1,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,None,Vehicle load on road
+1,1,2,Daylight,Raining no high winds,Flood over 3cm. deep,Road sign or marking defective or obscured,None
+1,1,1,Daylight,Raining no high winds,Snow,Auto traffic signal - out,Vehicle load on road
+1,2,1,Darkness - no lighting,Other,Frost or ice,Road surface defective,Other object on road
+1,2,1,Darkness - lights unlit,Fine no high winds,Wet or damp,Road surface defective,None
+1,2,1,Darkness - lights unlit,Fine no high winds,Dry,Auto traffic signal - out,Vehicle load on road
+1,1,2,Darkness - no lighting,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,Previous accident
+1,3,4,Daylight,Raining no high winds,Wet or damp,Auto traffic signal - out,Vehicle load on road
+1,2,1,Darkness - lights unlit,Snowing + high winds,Snow,None,Other object on road
+1,1,1,Daylight,Snowing no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - no lighting,Other,Wet or damp,None,Pedestrian in carriageway not injured
+1,1,1,Daylight,Fine + high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+1,4,1,Darkness - lights lit,Snowing + high winds,Snow,None,Pedestrian in carriageway not injured
+1,2,1,Darkness - lighting unknown,Fog or mist,Wet or damp,Auto traffic signal - out,None
+1,1,1,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,Road surface defective,Other object on road
+1,1,1,Darkness - no lighting,Raining + high winds,Flood over 3cm. deep,Auto traffic signal - out,None
+1,1,1,Darkness - lights lit,Other,Dry,Road sign or marking defective or obscured,Other object on road
+1,1,1,Daylight,Raining no high winds,Dry,Mud,Other object on road
+1,1,1,Darkness - lights unlit,Fine no high winds,Flood over 3cm. deep,None,Other object on road
+1,1,1,Darkness - no lighting,Fine no high winds,Dry,Roadworks,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - no lighting,Fine no high winds,Flood over 3cm. deep,Mud,Other object on road
+1,3,1,Darkness - lights lit,Snowing no high winds,Flood over 3cm. deep,None,None
+1,2,1,Darkness - lights lit,Fine no high winds,Flood over 3cm. deep,Auto traffic signal - out,None
+1,2,1,Daylight,Snowing no high winds,Wet or damp,Road surface defective,None
+1,1,1,Daylight,Raining + high winds,Wet or damp,Mud,Other object on road
+1,1,1,Darkness - no lighting,Fine no high winds,Dry,Mud,Any animal in carriageway (except ridden horse)
+1,2,1,Daylight,Fine no high winds,Wet or damp,Oil or diesel,Any animal in carriageway (except ridden horse)
+1,3,3,Darkness - no lighting,Fog or mist,Wet or damp,Mud,Previous accident
+1,1,1,Darkness - lights lit,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+1,2,1,Darkness - lighting unknown,Fine no high winds,Frost or ice,Roadworks,None
+1,2,2,Daylight,Fine + high winds,Frost or ice,Roadworks,None
+1,1,1,Daylight,Snowing no high winds,Wet or damp,Roadworks,Other object on road
+1,1,1,Darkness - lighting unknown,Fog or mist,Dry,Roadworks,None
+1,1,2,Daylight,Raining + high winds,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+1,1,2,Daylight,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+1,4,3,Darkness - lights lit,Other,Frost or ice,None,Vehicle load on road
+1,1,1,Darkness - lights lit,Fine no high winds,Wet or damp,Oil or diesel,Vehicle load on road
+1,2,1,Darkness - lights lit,Snowing no high winds,Frost or ice,None,Previous accident
+1,1,2,Darkness - no lighting,Other,Frost or ice,Road surface defective,Any animal in carriageway (except ridden horse)
+1,2,1,Darkness - no lighting,Raining no high winds,Frost or ice,Roadworks,None
+1,1,1,Daylight,Fine no high winds,Wet or damp,Roadworks,Pedestrian in carriageway not injured
+1,1,1,Daylight,Other,Snow,Mud,None
+1,2,1,Darkness - no lighting,Snowing no high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+1,3,1,Darkness - no lighting,Fine no high winds,Dry,Auto traffic signal - out,Previous accident
+1,1,1,Darkness - no lighting,Fine + high winds,Dry,None,Vehicle load on road
+1,2,1,Darkness - lighting unknown,Other,Dry,Road sign or marking defective or obscured,None
+1,1,1,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,Mud,Other object on road
+1,2,1,Darkness - lights lit,Fog or mist,Flood over 3cm. deep,None,None
+1,1,1,Daylight,Raining no high winds,Dry,Mud,None
+1,1,1,Daylight,Raining no high winds,Flood over 3cm. deep,Mud,None
+1,2,1,Darkness - lighting unknown,Other,Dry,Road surface defective,None
+1,4,4,Daylight,Raining no high winds,Flood over 3cm. deep,None,Previous accident
+1,1,1,Darkness - no lighting,Snowing no high winds,Wet or damp,Mud,None
+1,3,2,Darkness - lighting unknown,Fine no high winds,Wet or damp,None,Previous accident
+1,2,2,Darkness - no lighting,Fine + high winds,Flood over 3cm. deep,None,None
+1,1,1,Darkness - lights lit,Snowing no high winds,Snow,None,Pedestrian in carriageway not injured
+1,2,1,Darkness - no lighting,Fine no high winds,Dry,Oil or diesel,None
+1,2,1,Darkness - lighting unknown,Raining + high winds,Wet or damp,Roadworks,None
+1,1,1,Darkness - lighting unknown,Fine + high winds,Frost or ice,None,None
+1,2,1,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,Road surface defective,None
+1,2,1,Darkness - lighting unknown,Fog or mist,Wet or damp,Mud,None
+1,1,2,Darkness - no lighting,Fog or mist,Dry,Mud,None
+1,2,1,Daylight,Snowing no high winds,Wet or damp,Auto traffic signal - out,None
+1,2,1,Darkness - lighting unknown,Other,Wet or damp,Roadworks,Other object on road
+1,1,2,Daylight,Raining no high winds,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lights lit,Snowing + high winds,Frost or ice,Oil or diesel,None
+1,2,1,Darkness - lights lit,Raining no high winds,Frost or ice,None,Previous accident
+1,2,2,Darkness - no lighting,Snowing no high winds,Snow,Road sign or marking defective or obscured,None
+1,8,2,Daylight,Snowing no high winds,Snow,Road sign or marking defective or obscured,Previous accident
+1,1,1,Darkness - no lighting,Snowing no high winds,Frost or ice,Mud,None
+1,1,1,Darkness - lights lit,Raining + high winds,Wet or damp,Road surface defective,Vehicle load on road
+1,4,1,Darkness - lighting unknown,Raining no high winds,Wet or damp,None,Previous accident
+1,3,2,Darkness - lights lit,Fine + high winds,Snow,Roadworks,None
+1,2,1,Daylight,Raining no high winds,Wet or damp,Roadworks,Vehicle load on road
+1,6,5,Darkness - lights lit,Raining + high winds,Frost or ice,Road surface defective,None
+1,1,1,Daylight,Other,Dry,Oil or diesel,None
+1,2,1,Darkness - lights lit,Raining + high winds,Flood over 3cm. deep,None,Vehicle load on road
+1,1,1,Daylight,Raining no high winds,Flood over 3cm. deep,Oil or diesel,None
+1,1,1,Darkness - lights unlit,Other,Frost or ice,Auto traffic signal - out,None
+1,1,2,Darkness - lights lit,Fine + high winds,Wet or damp,None,Vehicle load on road
+1,2,2,Daylight,Fine + high winds,Wet or damp,Road sign or marking defective or obscured,None
+1,1,1,Daylight,Raining no high winds,Wet or damp,Mud,Vehicle load on road
+1,2,1,Darkness - lights lit,Fine no high winds,Wet or damp,Oil or diesel,Other object on road
+1,2,2,Darkness - lighting unknown,Raining no high winds,Dry,Oil or diesel,Previous accident
+1,3,3,Darkness - lights lit,Fine no high winds,Frost or ice,Mud,None
+1,2,1,Daylight,Fine no high winds,Flood over 3cm. deep,Oil or diesel,None
+1,4,1,Daylight,Fine no high winds,Snow,None,Other object on road
+1,1,1,Darkness - lights unlit,Raining no high winds,Wet or damp,Auto signal part defective,None
+1,2,1,Daylight,Snowing no high winds,Snow,Oil or diesel,None
+1,2,1,Darkness - lights lit,Fine + high winds,Dry,Roadworks,Pedestrian in carriageway not injured
+1,1,1,Daylight,Other,Frost or ice,None,Any animal in carriageway (except ridden horse)
+1,1,6,Darkness - lights lit,Snowing + high winds,Frost or ice,Road surface defective,Other object on road
+1,2,5,Darkness - lights lit,Raining no high winds,Dry,Mud,Other object on road
+1,1,1,Darkness - lighting unknown,Snowing no high winds,Frost or ice,Auto traffic signal - out,None
+1,2,1,Darkness - lights lit,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,Previous accident
+1,1,1,Darkness - no lighting,Raining + high winds,Wet or damp,Mud,Other object on road
+1,1,1,Darkness - no lighting,Raining + high winds,Wet or damp,Auto traffic signal - out,None
+1,2,1,Daylight,Fine no high winds,Flood over 3cm. deep,None,Other object on road
+1,1,1,Darkness - no lighting,Fine no high winds,Dry,Roadworks,Vehicle load on road
+1,1,1,Darkness - no lighting,Other,Flood over 3cm. deep,None,Other object on road
+1,2,1,Darkness - no lighting,Other,Frost or ice,Road sign or marking defective or obscured,None
+1,2,2,Darkness - no lighting,Other,Frost or ice,Road surface defective,None
+1,2,1,Darkness - lights unlit,Fog or mist,Wet or damp,Roadworks,None
+1,2,2,Darkness - lighting unknown,Other,Snow,None,None
+1,1,1,Darkness - lighting unknown,Other,Wet or damp,None,Any animal in carriageway (except ridden horse)
+1,2,1,Darkness - lighting unknown,Fog or mist,Wet or damp,Roadworks,None
+1,1,1,Darkness - no lighting,Fog or mist,Frost or ice,Road sign or marking defective or obscured,None
+1,2,2,Darkness - lights lit,Raining no high winds,Dry,Roadworks,None
+1,1,1,Daylight,Snowing + high winds,Frost or ice,Oil or diesel,None
+1,3,2,Darkness - lights unlit,Snowing no high winds,Wet or damp,Road surface defective,Other object on road
+1,2,1,Darkness - lights lit,Raining no high winds,Dry,None,Pedestrian in carriageway not injured
+1,3,5,Daylight,Raining no high winds,Wet or damp,Mud,Previous accident
+1,2,1,Daylight,Fine no high winds,Frost or ice,Roadworks,Other object on road
+1,3,1,Darkness - lighting unknown,Fog or mist,Wet or damp,None,Other object on road
+1,4,1,Darkness - lighting unknown,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,None
+1,1,1,Daylight,Snowing no high winds,Wet or damp,None,Previous accident
+1,2,1,Darkness - lights lit,Fine no high winds,Snow,Auto traffic signal - out,None
+1,1,2,Daylight,Fine no high winds,Dry,Road sign or marking defective or obscured,Pedestrian in carriageway not injured
+1,2,2,Darkness - no lighting,Fog or mist,Wet or damp,Road sign or marking defective or obscured,None
+1,1,1,Daylight,Raining no high winds,Frost or ice,Road surface defective,None
+1,3,1,Darkness - lighting unknown,Other,Wet or damp,Roadworks,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lighting unknown,Other,Dry,Oil or diesel,Other object on road
+1,2,3,Daylight,Snowing no high winds,Snow,None,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lights lit,Raining + high winds,Flood over 3cm. deep,Roadworks,None
+1,2,3,Darkness - lighting unknown,Other,Flood over 3cm. deep,None,None
+1,1,1,Daylight,Raining no high winds,Snow,Auto traffic signal - out,None
+1,2,3,Darkness - lights lit,Snowing no high winds,Snow,None,Vehicle load on road
+1,1,1,Darkness - lights lit,Raining no high winds,Dry,Mud,None
+1,2,1,Daylight,Raining + high winds,Wet or damp,Road surface defective,Previous accident
+1,1,1,Daylight,Fine no high winds,Dry,Auto traffic signal - out,Any animal in carriageway (except ridden horse)
+1,2,1,Daylight,Fine no high winds,Dry,Auto traffic signal - out,Pedestrian in carriageway not injured
+1,1,1,Darkness - no lighting,Raining no high winds,Wet or damp,Road surface defective,Other object on road
+1,2,2,Daylight,Fine + high winds,Frost or ice,Mud,None
+1,2,3,Darkness - no lighting,Raining no high winds,Dry,None,Vehicle load on road
+1,1,1,Darkness - lights lit,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+1,3,2,Daylight,Fine no high winds,Wet or damp,Road surface defective,Previous accident
+1,2,1,Darkness - no lighting,Fine no high winds,Wet or damp,Mud,Other object on road
+1,2,2,Darkness - lighting unknown,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,Previous accident
+1,2,2,Daylight,Raining + high winds,Frost or ice,Oil or diesel,None
+1,1,1,Darkness - no lighting,Fine no high winds,Wet or damp,Auto signal part defective,None
+1,1,2,Darkness - lighting unknown,Other,Dry,Roadworks,Other object on road
+1,3,3,Darkness - no lighting,Raining + high winds,Snow,None,None
+1,7,1,Darkness - lights lit,Raining no high winds,Snow,None,Previous accident
+1,2,2,Darkness - lights lit,Raining no high winds,Dry,Road sign or marking defective or obscured,None
+1,1,1,Darkness - no lighting,Snowing + high winds,Wet or damp,Mud,None
+1,2,2,Darkness - no lighting,Fog or mist,Wet or damp,Roadworks,Previous accident
+1,2,1,Darkness - lighting unknown,Other,Wet or damp,Road sign or marking defective or obscured,None
+1,1,1,Darkness - lights lit,Fog or mist,Dry,None,Pedestrian in carriageway not injured
+1,1,1,Daylight,Fine no high winds,Snow,Mud,Previous accident
+1,1,1,Daylight,Snowing no high winds,Snow,Auto signal part defective,None
+1,1,1,Darkness - lights unlit,Fog or mist,Wet or damp,Road sign or marking defective or obscured,None
+1,2,1,Darkness - lights lit,Fine no high winds,Frost or ice,Road sign or marking defective or obscured,None
+1,3,3,Darkness - lights lit,Snowing no high winds,Frost or ice,Auto traffic signal - out,None
+1,1,1,Darkness - no lighting,Raining no high winds,Dry,Road surface defective,Other object on road
+1,1,1,Darkness - lighting unknown,Fine no high winds,Dry,Oil or diesel,Previous accident
+1,1,1,Darkness - lights lit,Raining no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+1,1,1,Daylight,Fine + high winds,Wet or damp,Road surface defective,None
+1,1,1,Darkness - no lighting,Fine + high winds,Wet or damp,Mud,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lighting unknown,Snowing + high winds,Dry,None,None
+1,2,1,Daylight,Fine no high winds,Dry,Mud,Previous accident
+1,2,1,Darkness - lights unlit,Other,Wet or damp,None,Vehicle load on road
+1,2,1,Darkness - lights lit,Other,Dry,Roadworks,Other object on road
+1,1,1,Daylight,Snowing no high winds,Wet or damp,None,Pedestrian in carriageway not injured
+1,2,1,Darkness - lighting unknown,Raining no high winds,Wet or damp,Roadworks,Other object on road
+1,2,1,Daylight,Other,Wet or damp,Auto signal part defective,None
+1,1,1,Darkness - no lighting,Fine no high winds,Dry,Road surface defective,Any animal in carriageway (except ridden horse)
+1,4,3,Darkness - no lighting,Other,Dry,None,Previous accident
+1,1,1,Daylight,Snowing no high winds,Snow,Road surface defective,None
+1,1,1,Daylight,Raining + high winds,Frost or ice,Auto traffic signal - out,None
+1,4,1,Darkness - lighting unknown,Raining no high winds,Dry,Roadworks,None
+1,1,1,Daylight,Fog or mist,Flood over 3cm. deep,None,None
+1,1,1,Daylight,Raining + high winds,Flood over 3cm. deep,Mud,None
+1,1,1,Darkness - lights lit,Fine no high winds,Frost or ice,None,Pedestrian in carriageway not injured
+1,2,1,Darkness - no lighting,Snowing no high winds,Wet or damp,Roadworks,None
+1,1,1,Darkness - no lighting,Fog or mist,Frost or ice,Auto traffic signal - out,None
+1,1,1,Daylight,Fine + high winds,Dry,Oil or diesel,None
+1,2,1,Daylight,Raining no high winds,Wet or damp,Mud,Pedestrian in carriageway not injured
+1,2,2,Darkness - lights lit,Raining no high winds,Snow,Mud,None
+1,2,1,Darkness - no lighting,Raining + high winds,Wet or damp,Oil or diesel,Other object on road
+1,1,1,Daylight,Raining + high winds,Wet or damp,Road surface defective,Other object on road
+1,2,1,Darkness - lights unlit,Snowing no high winds,Snow,Roadworks,Other object on road
+1,1,2,Daylight,Fine no high winds,Frost or ice,Road surface defective,Other object on road
+1,1,1,Darkness - lights lit,Fine no high winds,Wet or damp,Mud,Other object on road
+1,2,2,Darkness - no lighting,Snowing no high winds,Wet or damp,None,Vehicle load on road
+1,3,3,Daylight,Fine + high winds,Wet or damp,None,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lighting unknown,Fine no high winds,Dry,Road surface defective,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - no lighting,Raining + high winds,Wet or damp,Road surface defective,Other object on road
+1,1,2,Darkness - no lighting,Snowing + high winds,Snow,Mud,None
+1,3,1,Daylight,Raining no high winds,Dry,Road surface defective,Other object on road
+1,1,1,Darkness - no lighting,Fine no high winds,Frost or ice,Oil or diesel,None
+1,2,1,Darkness - no lighting,Fine + high winds,Wet or damp,Road sign or marking defective or obscured,None
+1,4,1,Daylight,Fine no high winds,Dry,Mud,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lights lit,Other,Dry,Road surface defective,None
+1,9,5,Daylight,Fog or mist,Dry,None,Other object on road
+1,1,1,Darkness - lights lit,Fine no high winds,Frost or ice,Road surface defective,Vehicle load on road
+1,2,1,Darkness - lights lit,Fine no high winds,Dry,Mud,Other object on road
+1,2,2,Daylight,Other,Wet or damp,Road sign or marking defective or obscured,Previous accident
+1,3,1,Daylight,Other,Frost or ice,Road sign or marking defective or obscured,None
+1,2,1,Darkness - lights lit,Raining + high winds,Dry,None,Other object on road
+1,2,1,Darkness - lights lit,Snowing no high winds,Frost or ice,None,Other object on road
+1,1,1,Darkness - lights lit,Raining no high winds,Wet or damp,Oil or diesel,Pedestrian in carriageway not injured
+1,1,1,Daylight,Fine no high winds,Dry,Road surface defective,Previous accident
+1,2,2,Daylight,Snowing no high winds,Frost or ice,None,Other object on road
+1,1,1,Darkness - no lighting,Fine no high winds,Dry,Road surface defective,Vehicle load on road
+1,1,1,Darkness - lights lit,Fine + high winds,Dry,Auto signal part defective,None
+1,1,2,Darkness - no lighting,Fine no high winds,Flood over 3cm. deep,Mud,None
+1,1,1,Daylight,Fine + high winds,Wet or damp,Roadworks,Other object on road
+1,2,1,Daylight,Fine + high winds,Dry,Auto traffic signal - out,Vehicle load on road
+1,1,1,Darkness - lights unlit,Fine + high winds,Wet or damp,None,Previous accident
+1,2,1,Darkness - lighting unknown,Raining no high winds,Flood over 3cm. deep,None,Other object on road
+1,3,1,Darkness - no lighting,Fine no high winds,Frost or ice,None,Pedestrian in carriageway not injured
+1,2,2,Darkness - no lighting,Fine no high winds,Dry,Auto traffic signal - out,Other object on road
+1,1,1,Darkness - no lighting,Snowing no high winds,Wet or damp,None,Other object on road
+1,2,1,Daylight,Other,Frost or ice,Oil or diesel,None
+1,1,1,Darkness - lights lit,Other,Dry,Auto signal part defective,None
+1,2,1,Darkness - lights lit,Fine no high winds,Dry,Oil or diesel,Vehicle load on road
+1,1,1,Darkness - lights lit,Fog or mist,Wet or damp,Roadworks,Other object on road
+1,1,1,Darkness - no lighting,Raining no high winds,Wet or damp,Road surface defective,Any animal in carriageway (except ridden horse)
+1,1,1,Daylight,Snowing no high winds,Frost or ice,Auto traffic signal - out,None
+1,2,2,Darkness - lighting unknown,Fine no high winds,Flood over 3cm. deep,None,None
+1,1,1,Darkness - lighting unknown,Raining + high winds,Wet or damp,Mud,None
+1,1,1,Daylight,Raining + high winds,Snow,None,None
+1,2,1,Daylight,Fine + high winds,Wet or damp,Auto traffic signal - out,Vehicle load on road
+1,1,1,Darkness - no lighting,Other,Dry,Mud,None
+1,1,1,Darkness - lights lit,Raining no high winds,Dry,Road surface defective,None
+1,2,1,Darkness - lights lit,Raining no high winds,Snow,Auto traffic signal - out,None
+1,2,1,Darkness - no lighting,Fog or mist,Wet or damp,None,Vehicle load on road
+1,2,1,Darkness - lights lit,Other,Frost or ice,None,Previous accident
+1,1,1,Darkness - lights lit,Fine + high winds,Wet or damp,None,Previous accident
+1,1,1,Daylight,Fog or mist,Frost or ice,None,Other object on road
+1,2,3,Daylight,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,Vehicle load on road
+1,1,1,Daylight,Fog or mist,Wet or damp,None,Pedestrian in carriageway not injured
+1,2,1,Daylight,Snowing + high winds,Snow,Road sign or marking defective or obscured,None
+1,1,1,Daylight,Fine + high winds,Wet or damp,Auto signal part defective,None
+1,2,1,Darkness - no lighting,Fine + high winds,Dry,Road sign or marking defective or obscured,None
+1,3,1,Darkness - lights lit,Fine no high winds,Wet or damp,Auto traffic signal - out,Other object on road
+1,1,1,Darkness - lighting unknown,Fine no high winds,Wet or damp,Roadworks,Other object on road
+1,1,1,Daylight,Snowing + high winds,Wet or damp,Roadworks,None
+1,2,2,Darkness - no lighting,Raining + high winds,Frost or ice,None,Previous accident
+1,1,1,Darkness - no lighting,Raining no high winds,Wet or damp,Auto traffic signal - out,Vehicle load on road
+1,2,1,Darkness - lights unlit,Raining + high winds,Wet or damp,Mud,None
+1,3,1,Darkness - lights lit,Fine no high winds,Wet or damp,Roadworks,Previous accident
+1,1,1,Darkness - lights lit,Raining + high winds,Flood over 3cm. deep,Road surface defective,Other object on road
+1,1,1,Darkness - no lighting,Fine + high winds,Wet or damp,Road surface defective,None
+1,1,1,Darkness - no lighting,Other,Flood over 3cm. deep,Road surface defective,Other object on road
+1,4,1,Darkness - no lighting,Raining + high winds,Wet or damp,Auto signal part defective,None
+1,1,1,Daylight,Raining no high winds,Snow,None,Previous accident
+1,1,1,Darkness - lights unlit,Other,Dry,None,Other object on road
+1,2,2,Daylight,Fog or mist,Wet or damp,Road sign or marking defective or obscured,None
+1,2,2,Daylight,Snowing + high winds,Dry,None,Vehicle load on road
+1,1,2,Darkness - lights lit,Raining + high winds,Flood over 3cm. deep,Mud,None
+1,1,1,Darkness - no lighting,Fine + high winds,Flood over 3cm. deep,None,Other object on road
+1,1,1,Daylight,Other,Dry,Mud,Vehicle load on road
+1,1,1,Darkness - no lighting,Fine no high winds,Flood over 3cm. deep,Road surface defective,None
+1,2,1,Darkness - lights lit,Fine no high winds,Dry,Road sign or marking defective or obscured,Vehicle load on road
+1,1,5,Daylight,Raining no high winds,Snow,None,Other object on road
+1,2,1,Darkness - lights lit,Other,Wet or damp,Auto traffic signal - out,Other object on road
+1,3,1,Darkness - lighting unknown,Fine + high winds,Wet or damp,Auto traffic signal - out,None
+1,1,1,Darkness - lights lit,Other,Dry,Oil or diesel,None
+1,3,2,Darkness - no lighting,Raining no high winds,Wet or damp,Road sign or marking defective or obscured,Previous accident
+1,1,1,Darkness - lighting unknown,Fine no high winds,Wet or damp,Auto traffic signal - out,None
+1,1,1,Darkness - no lighting,Snowing no high winds,Frost or ice,Auto traffic signal - out,None
+1,1,1,Darkness - lights lit,Fine no high winds,Wet or damp,Auto traffic signal - out,Vehicle load on road
+1,2,1,Darkness - lights lit,Fine no high winds,Flood over 3cm. deep,None,Other object on road
+1,1,1,Daylight,Raining no high winds,Dry,Road surface defective,None
+1,2,1,Daylight,Other,Frost or ice,Roadworks,Other object on road
+1,1,1,Darkness - lights lit,Fine no high winds,Wet or damp,Auto traffic signal - out,Pedestrian in carriageway not injured
+1,2,1,Daylight,Raining no high winds,Dry,Road sign or marking defective or obscured,None
+1,2,1,Darkness - lights unlit,Snowing + high winds,Snow,None,Previous accident
+1,1,1,Darkness - lights lit,Other,Dry,None,Any animal in carriageway (except ridden horse)
+1,2,1,Darkness - lights lit,Fine + high winds,Frost or ice,Roadworks,None
+1,2,2,Darkness - lights lit,Fine no high winds,Wet or damp,Roadworks,Pedestrian in carriageway not injured
+1,1,1,Darkness - no lighting,Fine no high winds,Dry,Road sign or marking defective or obscured,Other object on road
+1,5,2,Darkness - no lighting,Other,Frost or ice,None,Vehicle load on road
+1,2,2,Darkness - no lighting,Other,Dry,None,Other object on road
+1,3,3,Daylight,Snowing no high winds,Dry,Auto signal part defective,None
+1,1,2,Daylight,Fine no high winds,Snow,None,Pedestrian in carriageway not injured
+1,1,1,Darkness - no lighting,Other,Frost or ice,None,Other object on road
+1,2,1,Daylight,Snowing + high winds,Snow,Road surface defective,None
+1,3,1,Darkness - lights lit,Raining no high winds,Frost or ice,None,Vehicle load on road
+1,2,1,Daylight,Snowing no high winds,Dry,None,Vehicle load on road
+1,1,1,Darkness - lighting unknown,Fine no high winds,Dry,Roadworks,Pedestrian in carriageway not injured
+1,2,1,Darkness - no lighting,Fine no high winds,Frost or ice,Roadworks,Any animal in carriageway (except ridden horse)
+1,2,2,Daylight,Raining no high winds,Wet or damp,Auto traffic signal - out,Pedestrian in carriageway not injured
+1,2,3,Darkness - lights lit,Raining no high winds,Dry,None,Other object on road
+1,2,1,Darkness - lights lit,Snowing + high winds,Snow,None,Other object on road
+1,1,1,Darkness - lights lit,Fine + high winds,Wet or damp,None,Pedestrian in carriageway not injured
+1,2,1,Daylight,Fine no high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+1,1,1,Darkness - no lighting,Raining no high winds,Wet or damp,Roadworks,Any animal in carriageway (except ridden horse)
+1,1,3,Darkness - lighting unknown,Raining + high winds,Flood over 3cm. deep,None,Vehicle load on road
+1,1,1,Darkness - no lighting,Raining no high winds,Wet or damp,Oil or diesel,Other object on road
+1,1,2,Darkness - lighting unknown,Fine + high winds,Wet or damp,None,Other object on road
+1,1,1,Daylight,Fog or mist,Frost or ice,Road surface defective,None
+1,1,1,Darkness - lights lit,Fine no high winds,Dry,Road sign or marking defective or obscured,Previous accident
+1,2,3,Darkness - lights lit,Raining no high winds,Wet or damp,Roadworks,Previous accident
+1,2,2,Darkness - no lighting,Raining no high winds,Wet or damp,Roadworks,Previous accident
+1,1,1,Daylight,Fog or mist,Wet or damp,Road surface defective,Other object on road
+1,1,2,Daylight,Raining no high winds,Frost or ice,None,Other object on road
+1,1,1,Darkness - lighting unknown,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,None
+1,2,2,Daylight,Snowing no high winds,Wet or damp,Mud,None
+1,1,1,Darkness - lights unlit,Other,Dry,Road sign or marking defective or obscured,None
+1,2,1,Daylight,Snowing no high winds,Wet or damp,Road sign or marking defective or obscured,None
+1,1,1,Darkness - no lighting,Snowing + high winds,Dry,None,None
+1,2,1,Darkness - lights lit,Fine no high winds,Frost or ice,Auto signal part defective,None
+1,2,1,Darkness - lights lit,Raining + high winds,Snow,None,Other object on road
+1,2,2,Darkness - lights unlit,Snowing + high winds,Wet or damp,None,None
+1,1,2,Darkness - lights lit,Raining no high winds,Wet or damp,Mud,Other object on road
+1,1,1,Darkness - lights lit,Raining no high winds,Dry,Auto signal part defective,None
+1,2,3,Darkness - lights unlit,Raining + high winds,Wet or damp,Auto traffic signal - out,None
+1,1,1,Darkness - no lighting,Snowing + high winds,Snow,None,Any animal in carriageway (except ridden horse)
+1,2,1,Daylight,Raining no high winds,Wet or damp,Oil or diesel,Previous accident
+1,1,1,Darkness - no lighting,Raining no high winds,Dry,Mud,None
+1,1,1,Daylight,Snowing + high winds,Frost or ice,Mud,None
+1,1,1,Darkness - lights lit,Raining + high winds,Wet or damp,Road sign or marking defective or obscured,Other object on road
+1,1,1,Darkness - lights lit,Snowing no high winds,Wet or damp,Auto traffic signal - out,None
+1,2,1,Daylight,Snowing no high winds,Snow,Auto traffic signal - out,None
+1,1,3,Darkness - lighting unknown,Fine + high winds,Snow,None,None
+1,3,1,Darkness - lighting unknown,Raining no high winds,Frost or ice,Roadworks,None
+1,2,2,Darkness - no lighting,Fine no high winds,Wet or damp,Oil or diesel,Any animal in carriageway (except ridden horse)
+1,2,2,Daylight,Fine no high winds,Dry,Auto signal part defective,Other object on road
+1,1,1,Darkness - lights unlit,Fine no high winds,Frost or ice,None,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lights unlit,Fog or mist,Wet or damp,Roadworks,Other object on road
+1,3,1,Darkness - lights lit,Fine no high winds,Wet or damp,Oil or diesel,Any animal in carriageway (except ridden horse)
+1,1,1,Darkness - lights lit,Raining no high winds,Flood over 3cm. deep,Mud,None
+1,1,1,Daylight,Other,Wet or damp,Road sign or marking defective or obscured,Pedestrian in carriageway not injured
+1,2,2,Darkness - lights lit,Other,Snow,None,Previous accident
+1,2,1,Darkness - lights lit,Fine no high winds,Frost or ice,Auto traffic signal - out,Other object on road
+1,1,1,Darkness - lights lit,Fine + high winds,Flood over 3cm. deep,None,None
+1,5,2,Darkness - lights lit,Raining no high winds,Wet or damp,Oil or diesel,Previous accident
+1,1,1,Darkness - no lighting,Fog or mist,Frost or ice,None,Any animal in carriageway (except ridden horse)
+1,3,2,Daylight,Raining no high winds,Wet or damp,Auto signal part defective,Other object on road
+1,2,1,Darkness - lights lit,Fog or mist,Dry,Roadworks,Other object on road
+1,2,2,Daylight,Raining no high winds,Frost or ice,Oil or diesel,None
+1,1,1,Daylight,Fine + high winds,Dry,Mud,Other object on road
+1,1,1,Daylight,Other,Wet or damp,Roadworks,Pedestrian in carriageway not injured
+1,2,4,Darkness - lighting unknown,Other,Frost or ice,Auto traffic signal - out,None
+1,2,2,Darkness - lights unlit,Fine no high winds,Wet or damp,Mud,None
+1,2,1,Darkness - lights lit,Fog or mist,Wet or damp,Auto traffic signal - out,None
+1,3,3,Darkness - no lighting,Raining no high winds,Flood over 3cm. deep,Road sign or marking defective or obscured,None
+1,2,1,Darkness - lights lit,Fine + high winds,Dry,Auto traffic signal - out,Vehicle load on road
+1,2,1,Darkness - no lighting,Other,Dry,Road surface defective,None
+1,1,2,Darkness - lighting unknown,Fog or mist,Dry,None,Any animal in carriageway (except ridden horse)
+1,2,1,Darkness - no lighting,Snowing no high winds,Snow,Road surface defective,None
+1,1,1,Daylight,Raining no high winds,Frost or ice,Mud,None
+1,1,4,Darkness - lights lit,Fog or mist,Dry,Road sign or marking defective or obscured,None
+1,1,1,Daylight,Fine no high winds,Wet or damp,Roadworks,Any animal in carriageway (except ridden horse)

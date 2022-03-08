@@ -1,0 +1,31 @@
+﻿number_of_accidents,totalVehicles,totalCasualties,speed_limit,junction_control
+180606,333842,222921,30,Give way or uncontrolled
+46530,85188,60492,30,Auto traffic signal
+25693,51336,39562,60,Give way or uncontrolled
+24068,42564,27815,20,Give way or uncontrolled
+20716,41102,28504,40,Give way or uncontrolled
+8790,17998,13071,50,Give way or uncontrolled
+8052,16006,11566,40,Auto traffic signal
+7080,12245,8238,20,Auto traffic signal
+6779,13723,10042,70,Give way or uncontrolled
+2326,4417,2957,30,Stop sign
+1907,3973,2819,50,Auto traffic signal
+1357,2332,1644,30,Authorised person
+891,1951,1354,70,Auto traffic signal
+890,1836,1286,60,Auto traffic signal
+528,954,624,20,Stop sign
+341,693,553,60,Stop sign
+275,562,413,40,Stop sign
+269,442,303,20,Authorised person
+154,247,176,30,Not at junction or within 20 metres
+137,258,194,40,Authorised person
+115,221,175,60,Authorised person
+100,202,153,50,Stop sign
+89,154,143,60,Not at junction or within 20 metres
+55,114,92,70,Not at junction or within 20 metres
+49,83,81,50,Not at junction or within 20 metres
+41,90,60,50,Authorised person
+39,80,50,70,Authorised person
+35,76,52,40,Not at junction or within 20 metres
+27,50,37,70,Stop sign
+10,15,10,20,Not at junction or within 20 metres
