@@ -1,6 +1,6 @@
 
+![uk study](https://user-images.githubusercontent.com/99366604/161605162-58b3b60c-4d7d-4201-a034-4bfc7c61c915.jpg)
 
-![uk study](https://user-images.githubusercontent.com/99366604/161604214-94771e0b-33a8-49a3-ba44-94d05d72eb38.jpg)
 
 
 ## Introduction
