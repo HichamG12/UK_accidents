@@ -10,6 +10,7 @@ Note that all the contained accident data comes from police reports, so this dat
 
 
 **Research Aim**
+
 To find, analyse and evaluate trends in road accident data to suggest possible countermeasures to improve road safety in the UK through prevention or reduction of its impact.  
 1.4 Research Objectives
 The objectives of this dissertation are mainly the following:
@@ -20,6 +21,7 @@ The objectives of this dissertation are mainly the following:
 
 
 **ACCIDENT REPORT FORM**
+
 For most purposes, the database needs to be able to answer the following questions:
 •	Place of accident
 •	Time of accident
