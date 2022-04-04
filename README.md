@@ -1,4 +1,4 @@
-# UK_accidents case study
+# UK accidents case study
 
 
 Introduction
