@@ -5,11 +5,13 @@
 
 **Introduction**
 
+
 The UK government amassed traffic data from 2016 and 2020, recording millions of accidents in the process and making this one of the most comprehensive traffic data sets out there. It's a huge picture of a country undergoing change.
 Note that all the contained accident data comes from police reports, so this data does not include minor incidents.
 
 
 **Research Aim**
+
 
 To find, analyse and evaluate trends in road accident data to suggest possible countermeasures to improve road safety in the UK through prevention or reduction of its impact.  
 1.4 Research Objectives
@@ -22,6 +24,7 @@ The objectives of this dissertation are mainly the following:
 
 **ACCIDENT REPORT FORM**
 
+
 For most purposes, the database needs to be able to answer the following questions:
 •	Place of accident
 •	Time of accident
@@ -33,6 +36,7 @@ For most purposes, the database needs to be able to answer the following questio
 
 
 **Preparing data**
+
 
  Data location, licence, and privacy?
 
