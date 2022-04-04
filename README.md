@@ -1,5 +1,5 @@
+![uk study](https://user-images.githubusercontent.com/99366604/161605760-8595de4a-f68d-4bc7-ac64-21372d14a467.jpg)
 
-![uk study](https://user-images.githubusercontent.com/99366604/161605162-58b3b60c-4d7d-4201-a034-4bfc7c61c915.jpg)
 
 
 
