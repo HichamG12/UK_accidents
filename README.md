@@ -1,7 +1,7 @@
 # UK accidents case study
 
 
-## Introduction
+###### Introduction
 The UK government amassed traffic data from 2016 and 2020, recording millions of accidents in the process and making this one of the most comprehensive traffic data sets out there. It's a huge picture of a country undergoing change.
 Note that all the contained accident data comes from police reports, so this data does not include minor incidents.
 
