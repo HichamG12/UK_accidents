@@ -1,5 +1,5 @@
+![uk flag](https://user-images.githubusercontent.com/99366604/161601052-72c834fa-ff2b-494f-ba09-2ceeb7e9c186.png) # Accidents in the UK case study!
 
-![Screenshot 2022-04-04 141547](https://user-images.githubusercontent.com/99366604/161563502-3975e6c5-55ac-4d02-a36a-9cfc3d49a09a.png)
 
 
 ## Introduction
