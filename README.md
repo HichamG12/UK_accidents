@@ -1,5 +1,6 @@
 # UK accidents case study
 
+![accident2](https://user-images.githubusercontent.com/99366604/161562868-0155eb4a-8203-4696-8bfd-e674103afa9b.jpg)
 
 
 
