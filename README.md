@@ -40,7 +40,7 @@ For most purposes, the database needs to be able to answer the following questio
 
  Data location, licence, and privacy?
 
-The license for this dataset is the Open Government Licence used by all data on data.gov.uk [here](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). The raw datasets are available from the UK Department of Transport website here.
+The license for this dataset is the Open Government Licence used by all data on data.gov.uk [(link to the licence)](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). The raw datasets are available from the [UK Department of Transport website] (https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data).
 
 
  How is the data organized?
