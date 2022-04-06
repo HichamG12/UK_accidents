@@ -50,17 +50,10 @@ The data is organized in rows and columns in 3 csv files.
 All the data variables are coded rather than containing textual strings. The lookup tables are available in the "Additional resources" section towards the bottom of the table.
 
 
- Are there issues with bias or credibility in this data? Does your data ROCCC?
 
 
 
- How did you verify the data’s integrity?
 
-
- How does it help you answer your question?
-
-
- Are there any problems with the data?
 
 
 
